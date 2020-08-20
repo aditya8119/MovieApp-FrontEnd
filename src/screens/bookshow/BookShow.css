@@ -1,0 +1,39 @@
+.formControl{
+    width: 240px;
+  }
+  
+  .bookShow
+  {
+    text-align:center;
+    margin-top:16px;
+  }
+  
+  .cardStyle
+  {
+    width:280px;
+    padding:32px 64px 32px 64px;
+    margin:auto;
+    text-align:left;
+  }
+  
+  .marginTop16
+  {
+    margin-top:16px;
+  }
+  
+  .back{
+    cursor:pointer;
+  }
+  
+  
+  .dispNone{
+    display:none;
+  }
+  
+  .dispBlock{
+     display:block;
+  }
+  
+  .red{
+    color:red;
+  }
